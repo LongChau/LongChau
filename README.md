@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LongChau
 - 👀 I’m interested in game, music and soccer.
-- 🌱 I’m currently learning Game Development.
+- 🌱 I’m currently a Game Developer.
 - 💞️ I’m looking to collaborate on Game Development.
 - 📫 How to reach me longchau1210@gmail.com
 
